@@ -1,5 +1,5 @@
-var usermin = +prompt('enter your min : ')
-var usersec = +prompt('enter your secend : ')
+var usermin = +prompt('Enter your min : ')
+var usersec = +prompt('Enter your secend : ')
 
 var timer = setInterval(function () {
     if (usersec === -1 ){
